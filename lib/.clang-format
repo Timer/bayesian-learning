@@ -1,0 +1,8 @@
+Language: Cpp
+BasedOnStyle: Google
+SpaceAfterCStyleCast: true
+AllowShortFunctionsOnASingleLine: All
+ColumnLimit: 0
+AllowShortBlocksOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+IndentCaseLabels: false
